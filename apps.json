@@ -1,6 +1,10 @@
 [
   {
     "name": "I am an app",
-    "image": "https://bantervr.com/assets/b/beach.png"
+    "image": "https://bantervr.com/assets/b/beach.png",
+    "packageName": "com.package.app",
+    "commands" : [
+      "setprop something"
+    ]
   }
 ]
