@@ -3,17 +3,18 @@
     "name": "I am an app",
     "image": "https://bantervr.com/assets/b/beach.png",
     "packageName": "com.package.app",
-    "commands" : [
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2",
-      "adb setprop debug.oculus.screenCaptureEye 2"
+    "tweaks" : [
+      "refreshRate:72",
+      "textureWidth:1440",
+      "textureHeight:1584",
+      "cpuLevel:app",
+      "gpuLevel:app"
+    ],
+    "extras": [
+      "screenCaptureEye:1",
+      "fullRateCapture:0",
+      "guardian_pause:0",
+      "experimentalEnabled:0",
     ]
   }
 ]
