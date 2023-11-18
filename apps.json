@@ -4,7 +4,16 @@
     "image": "https://bantervr.com/assets/b/beach.png",
     "packageName": "com.package.app",
     "commands" : [
-      "setprop something"
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2",
+      "adb setprop debug.oculus.screenCaptureEye 2"
     ]
   }
 ]
